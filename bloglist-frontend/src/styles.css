@@ -1,0 +1,102 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: blanchedalmond;
+  margin: 30px
+}
+
+button {
+  background-color: rgb(161, 146, 122);
+  border: 2px solid black;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-left: 3px;
+  font-size: 15px;
+  border-radius: 20px;
+}
+
+input {
+  background-color: rgb(245, 233, 217);
+}
+
+.textField {
+  background-color: rgb(245, 233, 217);
+  margin-left: 8px;
+}
+
+.cancelButton {
+  background-color: rgb(202, 96, 96);
+  
+}
+
+.error {
+  color: red;
+  background-color: rgb(255, 227, 224);
+  border: 4px solid;
+  margin: 10px 10px 0px 10px;
+  padding: 5px;
+  text-align: center;
+}
+
+.success {
+  color: green;
+  background-color: lightgreen;
+  border: 4px solid;
+  margin: 10px 10px 0px 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+#messageText {
+  font-size: 30px;
+  display: inline-block;
+  margin: 0;
+}
+
+.top {
+  background-color: rgb(228, 185, 192);
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+.blog {
+  background-color: rgb(228, 185, 192);
+  padding: 0 0 10px 10px;
+  border: 1px solid;
+  margin: 0 0 5px 5px;
+  border-radius: 0 20px 20px 0;
+  width: 80%;
+}
+
+th {
+  padding: 0 5px 5px 0;
+  text-align: left;
+}
+
+.link {
+  text-decoration: underline;
+  color: black;
+}
+
+.inline {
+  display: inline;
+  text-decoration: none;
+  padding: 0 10px 0 0;
+}
+
+.topLink {
+  padding: 10px;
+  margin-left: 10px;
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  background-color: rgb(161, 146, 122);
+  border-radius: 5px;
+}
